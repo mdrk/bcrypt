@@ -1,5 +1,5 @@
 /*
-Becrypt - A simple yet effective cryptography program.
+BCrypt - A simple yet effective cryptography program.
 @author - Arun George
 
 
