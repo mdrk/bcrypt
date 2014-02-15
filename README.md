@@ -1,4 +1,4 @@
 bcrypt
 ======
 
-A simple yet effective cryptography program written in Java.
+A simple cryptography program written in Java.
